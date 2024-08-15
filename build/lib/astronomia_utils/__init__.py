@@ -1,0 +1,2 @@
+from .astronomia_utils import forca_gravitacional
+from .astronomia_utils import peso_na_superficie

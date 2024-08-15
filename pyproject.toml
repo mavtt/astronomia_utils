@@ -1,0 +1,16 @@
+[project]
+name = "Astronomia_Utils"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [{ "name" = "Heleno", "email" = "helenocampos@id.uff.br" }]
+maintainers = [{ "name" = "Heleno", "email" = "helenocampos@id.uff.br" }]
+description = 'This is an example package of Astronomy Utility functions'
+dependencies = ["pytest"]
+version = "0.0.1"
+[project.optional-dependencies]
+docs = ["sphinx"]
+release = ["build", "twine"]
+test = ["pytest"]
+[tool.pytest.ini_options]
+addopts = ["--verbose"]
+testpaths = ["tests"]

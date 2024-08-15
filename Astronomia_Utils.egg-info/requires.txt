@@ -1,0 +1,11 @@
+pytest
+
+[docs]
+sphinx
+
+[release]
+build
+twine
+
+[test]
+pytest

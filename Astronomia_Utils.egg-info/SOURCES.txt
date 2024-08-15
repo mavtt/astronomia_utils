@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+Astronomia_Utils.egg-info/PKG-INFO
+Astronomia_Utils.egg-info/SOURCES.txt
+Astronomia_Utils.egg-info/dependency_links.txt
+Astronomia_Utils.egg-info/requires.txt
+Astronomia_Utils.egg-info/top_level.txt
+astronomia_utils/__init__.py
+astronomia_utils/astronomia_utils.py
+test/test_astronomia_utils.py
